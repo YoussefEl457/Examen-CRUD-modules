@@ -14,3 +14,4 @@ Plugins voor VSC:
 Handige websites:
     https://github.com/ ,
     http://roc-pdev.appspot.com/AO/examen/kt1-ontwerpen
+    https://www.youtube.com/watch?v=eVUO_RmP3jo&t=438s&ab_channel=ScoreShala
